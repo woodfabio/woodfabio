@@ -3,7 +3,7 @@
 - 🧐 Experience with R language and data preparation and analysis.
 - 📖 Already studied Python, SQL and Java.
 - 🌱 I’m currently learning OOP with Java.
-- 💞️ I’m looking to work on projects where I can learn more, interact with people and solve puzzles with coding.
+- 💞️ I’m looking to work on projects where I can learn more, interact with people and solve puzzles by coding.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiowood/
 
 <!---
