@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woodfabio
-- 👀 I’m interested in qualifying myself as a Back-End developer.
+- 👀 I’m interested in qualifying myself as a Flutter or Back-End developer.
 - 🧐 Experience with R language and data preparation and analysis.
 - 📖 Already studied Python, SQL and Java.
 - 🌱 I’m currently studying OOP with Java and Dart/Flutter.
