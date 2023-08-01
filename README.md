@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @woodfabio
 - 👀 I’m interested in qualifying myself as a developer.
-- 🧐 Experience with R language and data preparation and analysis.
-- 📖 Already studied Python, SQL, Java and Dart/Flutter.
-- 🌱 I’m currently studying web systems.
+- 📈 Experience with Python and R languages for data preparation and analysis.
+- 📱 Experience with Dart/Flutter app development.
+- ☕️ Studying Java and SQL.
+- 🌱 I’m currently a web systems student at IFRS-POA (Instituto Federal do Rio Grande do Sul).
 - 💞️ I’m looking to work on projects where I can learn more, interact with people and solve puzzles by coding.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiowood/
 
