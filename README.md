@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woodfabio
-- 👀 I’m interested in qualifying myself as a developer.
+- 👀 I’m interested in qualifying myself as a data engineer.
 - 📈 Experience with Python and R languages for data preparation and analysis.
 - 📱 Experience with Dart/Flutter app development.
 - ☕️ Studying Java and SQL.
