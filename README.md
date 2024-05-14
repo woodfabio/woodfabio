@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @woodfabio
 - 👀 I’m interested in qualifying myself as a data engineer.
-- 📈 Experience with Python and R languages for data preparation and analysis.
-- 📱 Experience with Dart/Flutter app development.
-- ☕️ Studying Java and SQL.
-- 🌱 I’m currently a web systems student at IFRS-POA (Instituto Federal do Rio Grande do Sul).
+- 📈 Experience with Python and R languages and AWS resources for data preparation and analysis.
+- 📱 Experience also with Dart/Flutter app development and Java development.
+- 🌱 I’m currently a system analysis and development student at Senac.
 - 💞️ I’m looking for work on projects where I can learn more, interact with people and solve puzzles by coding.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiowood/
 
