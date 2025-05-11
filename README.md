@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woodfabio
-- 👀 I’m interested in qualifying myself as a data engineer.
+- 👀 I am currently working as a data engineer at Instituto Atlântico.
 - 📈 Experience with Python and R languages and AWS resources for data preparation and analysis.
 - 🥇 AWS Certified Cloud Practitioner and AWS Cloud Data Engineering PB Compass UOL
 - 📱 Experience also with Dart/Flutter app development and Java development.
