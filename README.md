@@ -3,7 +3,6 @@
 - 📈 Experience with Python and R languages and AWS resources for data preparation and analysis.
 - 🥇 AWS Certified Cloud Practitioner and AWS Cloud Data Engineering PB Compass UOL
 - 📱 Experience also with Dart/Flutter app development and Java development.
-- 🌱 I’m currently a system analysis and development student at Senac.
 - 💞️ I’m looking for work on projects where I can learn more, interact with people and solve puzzles by coding.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiowood/
 
